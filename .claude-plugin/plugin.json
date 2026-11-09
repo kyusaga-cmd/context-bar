@@ -1,0 +1,6 @@
+{
+"name": "context-bar",
+"version": "0.2.0",
+"description": "Pasek zużycia kontekstu nad promptem, z przyciskami nowej sesji i rozgałęzienia.",
+"types": "./types/index.d.ts"
+}
