@@ -1,5 +1,5 @@
 {
-"name": "wraplab-mods",
-"owner": { "name": "WrapLab" },
+"name": "kyusaga-mods",
+"owner": { "name": "kyusaga-cmd" },
 "plugins": [{ "name": "context-bar", "source": "./" }]
 }
