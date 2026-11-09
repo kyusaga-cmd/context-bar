@@ -1,0 +1,5 @@
+{
+"name": "wraplab-mods",
+"owner": { "name": "WrapLab" },
+"plugins": [{ "name": "context-bar", "source": "./" }]
+}
